@@ -48,6 +48,6 @@ Tailwind=>
 但上網爬些相關技術文章邊摸索邊實做，最後終於把它套進專案裡。
 ```
 
-###連結
+### 連結
 
 [github page](https://westmelonn.github.io/unnotech/dist)
