@@ -11,9 +11,6 @@
 ### 專案架構、邏輯說明
 ```
 專案架構:
-public
-  ⌞index.html
-  ⌞favicon.ico
 src
   ⌞router
     ⌞index.js
